@@ -71,5 +71,5 @@ sin(cos(2*x))
 
 - The source code has been checked by the static analyzer cppcheck, as well as the style linter cpplint.
 
-> The program was written according to principles of structured programming E. Dijkstra.
+> The program was written according to the principles of structured programming E. Dijkstra.
 
